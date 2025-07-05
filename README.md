@@ -18,7 +18,7 @@ A modern, responsive e-commerce platform built with React.js, featuring product 
 
 ## 🌐 Live Demo
 
-Experience the project live: [Glowing E-Commerce](https://glowingecommerce.vercel.app/)
+Experience the project live: [Glowing E-Commerce](https://ecommerce-porject.vercel.app/))
 
 ## 🛠️ Installation
 
